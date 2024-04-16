@@ -17,7 +17,7 @@ I'm a frontend developer based in India, and I'm passionate about crafting digit
 ## ✨ Fun Facts 
 
 - Demon Slayer is my favorite anime.
-- As a kid, I wanted to be a photographer.
+- Photography is my hobby.
 - I love playing competitive games.
 
 ## 📫 Contact
