@@ -10,7 +10,7 @@ I'm a frontend developer based in India, and I'm passionate about crafting digit
  
 **Version Control:** `Git` `GitLab`
 
-**Testing:** `Cypress` `Playwright` `Vitest` `Postman` `Insomnia`
+**Testing:** `Jest` `Postman`
 
 **Others:** `Storybook` `clickup` `A11y` `Scrum` `Confluence` `Jira`
  
