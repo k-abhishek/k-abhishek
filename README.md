@@ -6,9 +6,9 @@ I'm a frontend developer based in India, and I'm passionate about crafting digit
  
 ## 📦 Toolbox
 
-**Frontend Development:** `React` `Tailwind` `Material-UI` `Framer-Motion`
+**Frontend Development:** `React` `Redux` `Tailwind` `Material-UI` `Framer-Motion` `AntD`
  
-**Version Control:** `Git` `GitLab` `Bitbucket`
+**Version Control:** `Git` `GitLab`
 
 **Testing:** `Cypress` `Playwright` `Vitest` `Postman` `Insomnia`
 
