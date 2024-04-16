@@ -12,7 +12,7 @@ I'm a frontend developer based in India, and I'm passionate about crafting digit
 
 **Testing:** `Jest` `Postman`
 
-**Others:** `Storybook` `clickup` `A11y` `Scrum` `Confluence` `Jira`
+**Others:** `Storybook` `clickup` `A11y` `Confluence` `Jira`
  
 ## ✨ Fun Facts 
 
