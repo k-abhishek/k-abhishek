@@ -9,7 +9,7 @@ I'm a frontend developer based in India, and I'm passionate about crafting digit
 
 **Frontend Development:** `React` `Redux` `Tailwind` `Material-UI` `Framer-Motion` `AntD`
  
-**Version Control:** `Git` `GitLab`
+**Version Control:** `Git` `Github` `GitLab`
 
 **Testing:** `Jest` `Postman`
 
