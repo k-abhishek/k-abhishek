@@ -7,13 +7,13 @@ I'm a frontend developer based in India, and I'm passionate about crafting digit
  
 ## 📦 Toolbox
 
-**Frontend Development:** `React` `Redux` `Tailwind` `Material-UI` `Framer-Motion` `AntD`
+**Frontend Development:** `React` `Next` `Redux` `Zustand` `Shadcn` `Tailwind` `Framer-Motion` `AntD`
  
 **Version Control:** `Git` `Github` `GitLab`
 
 **Testing:** `Jest` `Postman`
 
-**Others:** `Storybook` `clickup` `A11y` `Confluence` `Jira`
+**Others:** `Storybook` `Confluence` `Jira` `clickup` `A11y`
  
 ## ✨ Fun Facts 
 
