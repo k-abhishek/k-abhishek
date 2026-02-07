@@ -2,8 +2,10 @@
 
 I'm a frontend developer based in India, and I'm passionate about crafting digital experiences. 
 
+<!-- 
 - Explore my [blog](https://kabhishek.hashnode.dev/?source=top_nav_blog_home) where I share insights and learnings.
 - Check out my [Bash Configuration](https://github.com/k-abhishek/bash-config-mac) for development optimization.
+--> 
  
 ## 📦 Toolbox
 
