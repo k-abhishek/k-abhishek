@@ -79,7 +79,7 @@ I'm a **Senior Technical Lead and Frontend Engineer** based in Bengaluru, India,
 ## 📊 GitHub Stats</h2>
  <div align="center">
   <img height="170" src="https://streak-stats.demolab.com/?user=k-abhishek&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Streak" />
-  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=k-abhishek&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=k-abhishek&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 ---
