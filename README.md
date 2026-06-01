@@ -16,7 +16,7 @@
 
 I'm a **Senior Technical Lead and Frontend Engineer** based in Bengaluru, India, with **8+ years** of experience building enterprise-grade SaaS platforms, AI-powered integration tools, and real-time event-driven systems.
 
-- 🏢 Currently **Frontend Lead @ Workato** — building SSE-based agent UIs for enterprise automation pipelines
+- 🏢 **Frontend Lead @ Workato** — building SSE-based agent UIs for enterprise automation pipelines
 - ⚡ Obsessed with **real-time systems**, **AI/LLM integration**, and **frontend architecture at scale**
 - 🧠 Deep expertise in **prompt engineering**, **chain-of-thought strategies**, and streaming LLM output
 - 🚀 Built systems handling **50K+ MAUs** and **1000+ concurrent agent events** with 99.9% uptime
@@ -33,9 +33,8 @@ I'm a **Senior Technical Lead and Frontend Engineer** based in Bengaluru, India,
 |:------:|:-------|
 | 🏆 **99.9% uptime** | SSE-based real-time agent UIs handling thousands of concurrent events |
 | 📈 **35% improvement** | Code generation quality via prompt engineering & chain-of-thought strategies |
-| ⚡ **25–40% faster TTI** | Via lazy loading, code splitting & Redux state normalization |
+| ⚡ **25–40% faster TTI** | Via lazy loading, code splitting & zustand state normalization |
 | 🎫 **15%+ reduction** | Customer ticket resolution time via engineered Zendesk integrations |
-| 👥 **50K+ MAUs** | Enterprise conversational AI platforms serving Fortune 500 workflows |
 | ⏱️ **3+ hrs/week saved** | Via automated CI/CD workflows, Docker containerization & coding standards |
 
 </div>
